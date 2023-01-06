@@ -49,7 +49,7 @@ If you are interested in Deep Learning
 | 7 | Sequence labeling | | |
 | 8 | Parsing | Project proposal | Assignment 2 |
 | 9 | Word vector I | | |
-| 10 | Week 10: Word vector II | Assignment 3 | Literature review |
+| 10 | Word vector II | Assignment 3 | Literature review |
 | 11 | Intro to deep learning | | |
 | 12 | CNN and RNN | Assignment 4 | Assignment 3 |
 | 13 | Transformer | | |
